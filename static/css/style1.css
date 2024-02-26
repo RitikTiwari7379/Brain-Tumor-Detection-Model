@@ -1,0 +1,38 @@
+header{
+   background-color: #DAC0A3 !important;
+    color:white;
+    /* position:sticky; */
+    position:fixed;
+    width:100%;
+}
+
+
+nav{
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.intro{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+}
+
+.imgSubmit{
+    text-align: center !important;
+}
+
+
+.note{
+    font-weight: 400;
+    font-size: large;
+}
+.note h3{
+    color: red;
+    font-weight: 500;
+}
+.note p{
+    padding-bottom: 30px;
+    color: rgb(75, 75, 75);
+}
